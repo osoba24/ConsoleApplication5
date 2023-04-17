@@ -5,10 +5,7 @@
 #include <SFML/System.hpp>
 #include <SFML/Audio.hpp>
 #include<iostream>
-#include <Font.Dlg>
 
-
-/// PRZECHWYTYWANIE WYDARZEŃ (klawiatura, myszka)
 using namespace std;
 using namespace sf;
 
